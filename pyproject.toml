@@ -1,0 +1,7 @@
+[project]
+name = "opennet-hw-q1"
+version = "0.1.0"
+description = "question 1: multithreading"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
